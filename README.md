@@ -3,6 +3,10 @@
 
 - 📫 How to reach me **senoglu3800@gmail.com**
 
+<a href="https://github.com/osmantunasen/">
+ <img src="https://komarev.com/ghpvc/?username=osmantunasen" alt="page views" width="200" />
+  </a>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
  <a href="https://linkedin.com/in/osmantunasen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmantunasen" height="30" width="40" /></a>
@@ -120,4 +124,4 @@
   </a>
 </p>
 
-![snake gif](https://github.com/Fatih-Baser/Fatih-BASER/blob/output/github-contribution-grid-snake.gif)
+              ![snake gif](https://github.com/Fatih-Baser/Fatih-BASER/blob/output/github-contribution-grid-snake.gif)
