@@ -124,4 +124,4 @@
   </a>
 </p>
 
-       ![snake gif](https://github.com/Fatih-Baser/Fatih-BASER/blob/output/github-contribution-grid-snake.gif)
+      ![snake gif](https://github.com/Fatih-Baser/Fatih-BASER/blob/output/github-contribution-grid-snake.gif)
