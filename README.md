@@ -3,9 +3,9 @@
 
 
 <a href="https://github.com/osmantunasen/">
- <img align="center" src="https://komarev.com/ghpvc/?username=osmantunasen" alt="page views" width="200" />
+ <img align="left" src="https://komarev.com/ghpvc/?username=osmantunasen" alt="page views" width="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=senosmantuna&show_icons=true&include_all_commits=true" 
-  <img width="180" src="h" alt="osman" align="right" />
+  <img width="200" src="h" alt="osman" align="right" />
 </a>
 
 <h3 align="center">AWS Services</h3>
