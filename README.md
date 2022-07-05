@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osman Tuna Sen</h1>
+<h1 align="center">Hi, I'm Osman Tuna Sen<img width="5x" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 align="center">I am an avid AWS & DevOps intern from Geneva. Improving myself day by day is a passion for me.</h3>
 
 - 📫 How to reach me **senoglu3800@gmail.com**
