@@ -1,19 +1,10 @@
 <h1 align="center">Hi, I'm Osman Tuna Sen<img width="5x" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 align="center">I am an avid AWS & DevOps intern from Geneva. Improving myself day by day is a passion for me.</h3>
 
-- 📫 How to reach me **senoglu3800@gmail.com**
 
 <a href="https://github.com/osmantunasen/">
  <img src="https://komarev.com/ghpvc/?username=osmantunasen" alt="page views" width="200" />
   </a>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
- <a href="https://linkedin.com/in/osmantunasen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmantunasen" height="30" width="40" /></a>
-<a href="https://instagram.com/tuna.sn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuna.sn" height="30" width="40" /></a>
-<a href="mailto:senoglu3800@gmail.com" target="_blank"><img align="center"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-</p>
 
 <h3 align="center">AWS Services</h3>
 <p align="center">
@@ -123,5 +114,15 @@
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+ <a href="https://linkedin.com/in/osmantunasen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmantunasen" height="30" width="40" /></a>
+<a href="https://instagram.com/tuna.sn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuna.sn" height="30" width="40" /></a>
+<a href="mailto:senoglu3800@gmail.com" target="_blank"><img align="center"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+</p>
+
 
    ![snake gif](https://github.com/Fatih-Baser/Fatih-BASER/blob/output/github-contribution-grid-snake.gif)
