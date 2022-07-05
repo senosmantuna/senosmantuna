@@ -119,3 +119,5 @@
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
+
+![snake gif](https://github.com/Fatih-Baser/Fatih-BASER/blob/output/github-contribution-grid-snake.gif)
