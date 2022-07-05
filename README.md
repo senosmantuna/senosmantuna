@@ -6,7 +6,7 @@
  <img src="https://komarev.com/ghpvc/?username=osmantunasen" alt="page views" width="200" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=senosmantuna&show_icons=true&include_all_commits=true" 
-  <img width="120" src="h" alt="osman" align="right" />
+  <img width="180" src="h" alt="osman" align="right" />
 </a>
 
 
