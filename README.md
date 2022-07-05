@@ -3,7 +3,7 @@
 
 
 <a href="https://github.com/osmantunasen/">
- <img align="left" src="https://komarev.com/ghpvc/?username=osmantunasen" alt="page views" width="200" />
+ <img align="center" src="https://komarev.com/ghpvc/?username=osmantunasen" alt="page views" width="200" />
 </a>
 
 
